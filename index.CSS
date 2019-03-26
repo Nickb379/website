@@ -1,0 +1,28 @@
+
+
+h1 {
+    color:crimson;
+    border: forestgreen;
+    
+}
+h2 {
+    color:goldenrod;
+    border: purple;
+}
+h3 {
+    color: lightseagreen;
+    border: green
+
+}
+
+body {
+    background-image: url(giphy.gif1.webp);
+    background-size: auto;
+    
+    
+}
+p {
+    color:lightblue;
+    
+}
+
