@@ -11,3 +11,7 @@ p {
 h1 {
     color: purple
 }
+h2 {
+    color:goldenrod;
+    border: purple;
+}
