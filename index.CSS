@@ -11,7 +11,7 @@ h2 {
 }
 h3 {
     color: lightseagreen;
-    border: green
+    border: green;
 
 }
 
@@ -26,3 +26,9 @@ p {
     
 }
 
+
+.button {
+ 
+  border: none;
+  color: white;
+}
